@@ -1,0 +1,302 @@
+[
+  {
+    "id": "pinterest_1",
+    "title": "Sneakers - Vintage Style",
+    "description": "Perfect vintage sneakers for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=1",
+    "source_url": "https://pinterest.com/pin/1",
+    "style": "vintage",
+    "category": "shoes",
+    "price_range": "$30-60",
+    "colors": [
+      "gray",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Forever 21",
+    "likes": 328,
+    "saves": 22,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "shoes",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_2",
+    "title": "Watch - Vintage Style",
+    "description": "Perfect vintage watch for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=2",
+    "source_url": "https://pinterest.com/pin/2",
+    "style": "vintage",
+    "category": "accessories",
+    "price_range": "$20-50",
+    "colors": [
+      "beige",
+      "brown"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "ASOS",
+    "likes": 165,
+    "saves": 260,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "accessories",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_3",
+    "title": "Pencil Skirt - Vintage Style",
+    "description": "Perfect vintage pencil skirt for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=3",
+    "source_url": "https://pinterest.com/pin/3",
+    "style": "vintage",
+    "category": "bottom",
+    "price_range": "$50-100",
+    "colors": [
+      "gray",
+      "beige"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "ASOS",
+    "likes": 803,
+    "saves": 322,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "bottom",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_4",
+    "title": "Blazer - Vintage Style",
+    "description": "Perfect vintage blazer for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=4",
+    "source_url": "https://pinterest.com/pin/4",
+    "style": "vintage",
+    "category": "outerwear",
+    "price_range": "$60-120",
+    "colors": [
+      "white",
+      "gray"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Urban Outfitters",
+    "likes": 967,
+    "saves": 466,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "outerwear",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_5",
+    "title": "Scarf - Vintage Style",
+    "description": "Perfect vintage scarf for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=5",
+    "source_url": "https://pinterest.com/pin/5",
+    "style": "vintage",
+    "category": "accessories",
+    "price_range": "$10-25",
+    "colors": [
+      "beige",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "H&M",
+    "likes": 16,
+    "saves": 371,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "accessories",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_6",
+    "title": "Heels - Vintage Style",
+    "description": "Perfect vintage heels for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=6",
+    "source_url": "https://pinterest.com/pin/6",
+    "style": "vintage",
+    "category": "shoes",
+    "price_range": "$80-150",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "ASOS",
+    "likes": 662,
+    "saves": 135,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "shoes",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_7",
+    "title": "Graphic Tee - Vintage Style",
+    "description": "Perfect vintage graphic tee for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=7",
+    "source_url": "https://pinterest.com/pin/7",
+    "style": "vintage",
+    "category": "top",
+    "price_range": "$25-50",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Urban Outfitters",
+    "likes": 540,
+    "saves": 375,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "top",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_8",
+    "title": "Heels - Vintage Style",
+    "description": "Perfect vintage heels for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=8",
+    "source_url": "https://pinterest.com/pin/8",
+    "style": "vintage",
+    "category": "shoes",
+    "price_range": "$30-60",
+    "colors": [
+      "brown",
+      "beige"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Forever 21",
+    "likes": 142,
+    "saves": 292,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "shoes",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_9",
+    "title": "Heels - Vintage Style",
+    "description": "Perfect vintage heels for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=9",
+    "source_url": "https://pinterest.com/pin/9",
+    "style": "vintage",
+    "category": "shoes",
+    "price_range": "$80-150",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "H&M",
+    "likes": 242,
+    "saves": 178,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "shoes",
+      "vintage"
+    ]
+  },
+  {
+    "id": "pinterest_10",
+    "title": "Wide-Leg Trousers - Vintage Style",
+    "description": "Perfect vintage wide-leg trousers for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=10",
+    "source_url": "https://pinterest.com/pin/10",
+    "style": "vintage",
+    "category": "bottom",
+    "price_range": "$50-100",
+    "colors": [
+      "black",
+      "navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Forever 21",
+    "likes": 712,
+    "saves": 8,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "bottom",
+      "vintage"
+    ]
+  }
+]

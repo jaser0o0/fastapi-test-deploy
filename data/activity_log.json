@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-10-25T20:22:22.243859",
+    "activity": "query_processed",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "style": "vintage streetwear",
+      "has_image": false,
+      "body_shape": "hourglass"
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.246260",
+    "activity": "user_query_processed",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "style": "vintage streetwear",
+      "has_image": false
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.261465",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "vintage streetwear",
+      "max_items": 10
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.312806",
+    "activity": "recommendations_generated",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "recommendation_count": 5,
+      "outfit_count": 5
+    }
+  }
+]
